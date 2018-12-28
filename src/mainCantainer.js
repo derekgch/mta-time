@@ -5,7 +5,7 @@ class mainCantainer extends Component {
 
 
     render() {
-
+        getFeed(12);
         return (
             <div>
                 all the stuff
